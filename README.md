@@ -181,15 +181,15 @@ Development Environment
 
 ### Executive Overview
 
-![Executive Overview](Screenshots/dashboard_overview.png)
+https://drive.google.com/file/d/1OFiQAMzHK5pJIGxPYSGrVBIcQ4nJQYJN/view?usp=drive_link
 
 ### Customer Analytics
 
-![Customer Analytics](Screenshots/customer_segmentation.png)
+https://drive.google.com/file/d/1OokRg5gRFpNcQmy2kJUcBw3-PXF6Azjx/view?usp=drive_link
 
 ### Revenue Forecast
 
-![Revenue Forecast](Screenshots/revenue_forecast.png)
+https://drive.google.com/file/d/1JSLGvY4Mb-RoYmrMU0An_EQd-AA-KwXb/view?usp=drive_link
 
 ---
 
@@ -197,7 +197,7 @@ Development Environment
 
 Watch the complete dashboard demonstration here:
 
-**Google Drive:** https://drive.google.com/your-link
+**Google Drive:** https://drive.google.com/file/d/1l-T8bndorqemtTOpEIWZt0_ZmAK0FfPO/view?usp=drive_link
 
 ---
 
